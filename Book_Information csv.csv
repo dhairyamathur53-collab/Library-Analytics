@@ -1,0 +1,16 @@
+S.No,Book Name,Book ID,Author Name,Price,Issue Date,Return Date,Genre
+1,The Alchemist,BK101,Paulo Coelho,299,2025-01-05,2025-01-20,Fiction
+2,Wings of Fire,BK102,A P J Abdul Kalam,350,2025-01-07,2025-01-22,Autobiography
+3,Harry Potter and the Philosopher's Stone,BK103,J K Rowling,499,2025-01-10,2025-01-25,Fantasy
+4,Rich Dad Poor Dad,BK104,Robert Kiyosaki,399,2025-01-12,2025-01-27,Finance
+5,Atomic Habits,BK105,James Clear,450,2025-01-15,2025-01-30,Self Help
+6,Think and Grow Rich,BK106,Napoleon Hill,320,2025-01-18,2025-02-02,Self Help
+7,The Hobbit,BK107,J R R Tolkien,550,2025-01-20,2025-02-04,Fantasy
+8,Ikigai,BK108,Hector Garcia,370,2025-01-22,2025-02-06,Lifestyle
+9,The Power of Now,BK109,Eckhart Tolle,410,2025-01-25,2025-02-09,Spiritual
+10,The Diary of a Young Girl,BK110,Anne Frank,280,2025-01-27,2025-02-11,Biography
+11,To Kill a Mockingbird,BK111,Harper Lee,360,2025-01-29,2025-02-13,Classic
+12,1984,BK112,George Orwell,340,2025-02-01,2025-02-16,Dystopian
+13,Sapiens,BK113,Yuval Noah Harari,520,2025-02-03,2025-02-18,History
+14,The Psychology of Money,BK114,Morgan Housel,430,2025-02-05,2025-02-20,Finance
+15,The Monk Who Sold His Ferrari,BK115,Robin Sharma,390,2025-02-07,2025-02-22,Self Help
